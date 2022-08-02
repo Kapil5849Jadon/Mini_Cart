@@ -1,3 +1,12 @@
+<h1 align="center">Mini Cart</h1> 
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/1200/1*q6QSCoI9IgscvTKChgbr9g.png" alt="1.png" />
+    <img src="https://cdn-images-1.medium.com/max/1200/1*AvFWkif30XWa7DEUvQgKOQ.png" alt="2.png" />
+    <img src="https://cdn-images-1.medium.com/max/1200/1*T3_o6OtKTpsBLHzOeKA-8w.png" alt="3.png"/>
+</p>
+
+<h3 align="center"><a href="https://mini-cart-mu.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
