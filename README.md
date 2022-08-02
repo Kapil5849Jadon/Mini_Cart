@@ -5,7 +5,7 @@
     <img src="https://cdn-images-1.medium.com/max/1200/1*T3_o6OtKTpsBLHzOeKA-8w.png" alt="3.png"/>
 </p>
 
-<h3 align="center"><a href="https://mini-cart-mu.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://mini-cart-lqfa9m0yd-kapil5849jadon.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 # Getting Started with Create React App
 
